@@ -6,9 +6,6 @@ import os
 
 
 
-
-
-
 def afficher(plateau) :
     os.system('cls')
     alias = {0 : '_', 1 : 'X', 2 : 'O'}
